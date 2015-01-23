@@ -1,0 +1,48 @@
+<resources>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="pref_header_data_sync">Download</string>
+
+    <string name="pref_title_fetch_frequency">Fetch frequency</string>
+    <string-array name="pref_fetch_frequency_titles">
+        <item>Per day</item>
+        <item>Per half a day</item>
+        <item>Nearly when the new program being available</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_fetch_frequency_values">
+        <item>day</item>
+        <item>half</item>
+        <item>auto</item>
+        <item>never</item>
+    </string-array>
+    <string name="pref_save_destination">Save podcast files on</string>
+    <string-array name="pref_save_destination_titles">
+        <item>Internal Storage</item>
+        <item>SD card</item>
+    </string-array>
+    <string-array name="pref_save_destination_values">
+        <item>internal</item>
+        <item>sdcard</item>
+    </string-array>
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_program_notifications">New program notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+
+
+    <string name="pref_header_meta">About this app</string>
+
+    <string name="pref_title_version_info">Version info</string>
+    <string name="pref_title_rate_app">Rate this app</string>
+    <string name="pref_title_contact">Contact developer</string>
+
+</resources>
